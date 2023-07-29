@@ -40,6 +40,7 @@ plt.plot(x,ypred,color="Blue")
 plt.show()
 ```
 ## Output
+
 ![output](./univariant.png)
 ![output](./uni%20output1.png)
 ![output](./uni%20output2.png)
